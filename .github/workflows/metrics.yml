@@ -25,7 +25,7 @@ jobs:
           committer_message: "chore: update metrics"
 
           # what to show — includes private commits/PRs/issues via the repo-scope token
-          base: header, activity
+          base: activity
           base_indepth: yes
           repositories_affiliations: owner, collaborator, organization_member
           config_timezone: Europe/Stockholm
