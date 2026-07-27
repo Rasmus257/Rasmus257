@@ -32,3 +32,4 @@ jobs:
           extras_css: |
             h1, h2 { color: #00A854 !important; }
             rect.day[fill="#ebedf0"] { fill: #21262d !important; }
+            section:last-of-type .field:not(:first-of-type) { display: none !important; }
