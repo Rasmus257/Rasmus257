@@ -28,8 +28,6 @@ jobs:
           base: activity
           base_indepth: yes
           repositories_affiliations: owner, collaborator, organization_member
-          plugin_followup: yes
-          plugin_followup_sections: repositories, user
           config_timezone: Europe/Stockholm
           extras_css: |
             h1, h2 { color: #00A854 !important; }
