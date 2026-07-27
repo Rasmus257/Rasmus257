@@ -20,7 +20,10 @@
 
 ```console
 $ whoami
-Coding since pre-AI 🫡
+> name     : Rasmus
+> nickname : Rdimo
+> role     : software developer
+> status   : pre-AI coder 🫡
 ```
 
 ### About
