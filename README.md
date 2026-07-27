@@ -29,7 +29,7 @@ Coding since pre-AI 🫡
 
 <p align="center">
   <img height="180" src="https://readme-stats-peach-three.vercel.app/api?username=Rasmus257&count_private=true&show_icons=true&hide_border=true&hide_rank=true&title_color=00A854&icon_color=00A854&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="180" src="https://readme-stats-peach-three.vercel.app/api/top-langs/?username=Rasmus257&count_private=true&layout=donut&langs_count=5&hide=procfile&title_color=00A854&text_color=c9d1d9&bg_color=0d1117&hide_border=true&card_width=330" alt="Most Used Languages" />
+  <img height="180" src="https://readme-stats-peach-three.vercel.app/api/top-langs/?username=Rasmus257&count_private=true&layout=donut&langs_count=5&hide=procfile&title_color=00A854&text_color=c9d1d9&bg_color=0d1117&hide_border=true&exclude_repo=readme-stats&card_width=330" alt="Most Used Languages" />
 </p>
 
 <p align="center">
