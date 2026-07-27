@@ -28,8 +28,11 @@ Coding since pre-AI 🫡
 📩 • Want to reach? Connect with me on [LinkedIn](https://linkedin.com/in/rasmus-nyblom)
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=Rasmus257&hide_border=true&background=0d1117&ring=00A854&fire=00A854&currStreakLabel=00A854&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
   <img height="180" src="https://readme-stats-peach-three.vercel.app/api/top-langs/?username=Rasmus257&count_private=true&layout=compact&langs_count=8&hide=procfile&title_color=00A854&text_color=c9d1d9&bg_color=0d1117&hide_border=true&exclude_repo=readme-stats&card_width=330" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rasmus257&bg_color=0d1117&color=00A854&line=00A854&point=c9d1d9&area=true&area_color=00A854&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity" />
 </p>
 
 <p align="center">
