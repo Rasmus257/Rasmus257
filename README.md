@@ -5,7 +5,10 @@
 -->
 
 <p align="center">
-  <img width="520" src="https://github.com/user-attachments/assets/3050430c-3f9b-4428-ad80-b353cbc2c38a" alt="" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rasmus257/Rasmus257/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Rasmus257/Rasmus257/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 <p align="center">
@@ -30,11 +33,4 @@ Coding since pre-AI 🫡
 <p align="center">
   <img height="180" src="https://readme-stats-peach-three.vercel.app/api?username=Rasmus257&count_private=true&show_icons=true&hide_border=true&hide_rank=true&hide=stars,issues&title_color=00A854&icon_color=00A854&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
   <img height="180" src="https://readme-stats-peach-three.vercel.app/api/top-langs/?username=Rasmus257&count_private=true&layout=compact&langs_count=8&hide=procfile&title_color=00A854&text_color=c9d1d9&bg_color=0d1117&hide_border=true&exclude_repo=readme-stats&card_width=330" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rasmus257/Rasmus257/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/Rasmus257/Rasmus257/output/github-contribution-grid-snake.svg" />
-  </picture>
 </p>
