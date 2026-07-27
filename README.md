@@ -30,10 +30,6 @@ Coding since pre-AI 🫡
 😌 • Best feeling is when it works in prod exactly like it did on localhost<br>
 📩 • Want to reach? Connect with me on [LinkedIn](https://linkedin.com/in/rasmus-nyblom)
 
-<img align="right" width="330" src="https://readme-stats-peach-three.vercel.app/api/top-langs/?username=Rasmus257&count_private=true&layout=compact&langs_count=8&hide=procfile&title_color=00A854&text_color=c9d1d9&bg_color=0d1117&hide_border=true&exclude_repo=readme-stats&card_width=330" alt="Most Used Languages" />
-
-<img src="https://raw.githubusercontent.com/Rasmus257/Rasmus257/metrics/github-metrics.svg" alt="GitHub metrics" />
-
-<img src="https://readme-stats-peach-three.vercel.app/api?username=Rasmus257&count_private=true&show_icons=true&hide_border=true&hide_rank=true&hide=stars,commits,issues,contribs&title_color=00A854&icon_color=00A854&text_color=c9d1d9&bg_color=0d1117&custom_title=Pull%20Requests" alt="Pull Requests" />
-
-<br clear="all" />
+<p align="center">
+  <img src="https://readme-stats-peach-three.vercel.app/api/top-langs/?username=Rasmus257&count_private=true&layout=compact&langs_count=8&hide=procfile&title_color=00A854&text_color=c9d1d9&bg_color=0d1117&hide_border=true&exclude_repo=readme-stats&card_width=400" alt="Most Used Languages" />
+</p>
