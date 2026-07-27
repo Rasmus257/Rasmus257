@@ -20,10 +20,9 @@
 
 ```console
 $ whoami
-> name     : Rasmus
-> nickname : Rdimo
-> role     : software developer
-> status   : pre-AI coder 🫡
+> name   : Rasmus (Rdimo)
+> role   : software developer
+> status : pre-AI coder 🫡
 ```
 
 ### About
