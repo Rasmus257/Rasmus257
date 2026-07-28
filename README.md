@@ -29,7 +29,7 @@ $ whoami
 
 🛡️ • Interested in cybersecurity & reverse engineering<br>
 🤖 • Love making Claude work with Golang<br>
-😌 • Best feeling is when it works in prod exactly like it did on localhost<br>
+🤑 • Best feeling is when it works in prod exactly like it did on localhost<br>
 📩 • Want to reach? Connect with me on [LinkedIn](https://linkedin.com/in/rasmus-nyblom)
 
 <p align="center">
