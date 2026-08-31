@@ -33,6 +33,5 @@ $ whoami
 📩 • Want to reach? Connect with me on [LinkedIn](https://linkedin.com/in/rasmus-nyblom)
 
 <p align="center">
-  <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=Rasmus257&bg_color=0d1117&color=00A854&line=00A854&point=c9d1d9&area=true&area_color=00A854&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity" />
-  <img height="180" src="https://readme-stats-peach-three.vercel.app/api/top-langs/?username=Rasmus257&count_private=true&layout=compact&langs_count=8&hide=procfile&title_color=00A854&text_color=c9d1d9&bg_color=0d1117&hide_border=true&exclude_repo=readme-stats&card_width=330" alt="Most Used Languages" />
+  <img src="https://readme-stats-peach-three.vercel.app/api/top-langs/?username=Rasmus257&count_private=true&layout=compact&langs_count=8&hide=procfile&title_color=00A854&text_color=c9d1d9&bg_color=0d1117&hide_border=true&exclude_repo=readme-stats&size_weight=0.5&count_weight=0.5&card_width=400" alt="Most Used Languages" />
 </p>
