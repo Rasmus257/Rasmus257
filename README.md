@@ -22,7 +22,7 @@
 $ whoami
 > name   : Rasmus (Rdimo)
 > role   : software developer
-> status : pre-AI coder 🫡
+> status : coding since 13, pre-AI 🫡
 ```
 
 ### About
